@@ -30,9 +30,9 @@ This repository contains assignments and projects that I completed during my stu
   * Nodes should have a data string and two pointers for left and right child tree nodes.
   * Create insertTreeNode, inorderTraversali postorderTraversal, preorderTraversal functions.
 
-  * [Final Project](https://github.com/BerkeKalkan/OMU-ComputerEngineering-Assignments/tree/master/Data_Structures_BIL203/FinalProject/)
+* [Final Project](https://github.com/BerkeKalkan/OMU-ComputerEngineering-Assignments/tree/master/Data_Structures_BIL203/FinalProject/)
 
-  ![GitHub Logo](/FinalProject/Map_of_cities.png)
+  ![GitHub Logo](/Data_Structures_BIL203/FinalProject/Map_of_cities.png)
 
   Create a C program that calculates certain routes between two cities for the given image
 
