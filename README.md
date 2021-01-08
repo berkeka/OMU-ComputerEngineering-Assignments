@@ -40,3 +40,9 @@ This repository contains assignments and projects that I completed during my stu
   * Routes with the maximum length
   * Routes that has 3 cities except from the start and finish
   * Calculating number of routes
+
+  ## System Programming
+* [Week 3](https://github.com/BerkeKalkan/OMU-ComputerEngineering-Assignments/tree/master/System_Programming_BIL307/Project/)
+
+  Create a C program that multiplies matrices using multithreading:
+  
